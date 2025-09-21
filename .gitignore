@@ -1,6 +1,6 @@
 # But not these files (in any folder):
 # /yolov8n 
-/yolov8l 
+# /yolov8l 
 /yolov10n 
 /yolov11n 
 /yolov12n 
